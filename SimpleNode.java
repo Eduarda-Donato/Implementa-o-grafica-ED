@@ -1,4 +1,4 @@
-package Estruturas;
+package projeto.ed;
 
 public class SimpleNode<T>{
     private T value;

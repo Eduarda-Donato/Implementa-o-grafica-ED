@@ -1,4 +1,4 @@
-package Estruturas;
+package projeto.ed;
 
 public class EmptyStructureException extends Exception{
     protected String message;

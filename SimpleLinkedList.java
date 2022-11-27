@@ -1,7 +1,8 @@
-package Estruturas.LSE;
+package projeto.ed;
 
-import Estruturas.EmptyStructureException;
-import Estruturas.SimpleNode;
+
+//import EmptyStructureException;
+//import SimpleNode;
 
 public class SimpleLinkedList<T>{
     private SimpleNode<T> head;
